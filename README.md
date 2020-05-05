@@ -17,12 +17,12 @@ Run ```imageCaptioning.ipynb``` file for generating caption.
 
 
 ### Example
-![dog.jpg](photos/dog.jpg)
+![plane.jpg](photos/plane.jpg)
 
 caption generated for this image is,
 ```
-./photos/dog.jpg
-0): a dog with a red collar is sitting on a couch .
-1): a dog with a red collar is sitting on the floor .
-2): a dog with a red collar is sitting on a bench .
+./photos/plane.jpeg
+0): a plane is flying in blue sky .
+1): a plane is flying in cloudy sky .
+2): a plane is flying in blue and cloudy sky .
 ``` 
