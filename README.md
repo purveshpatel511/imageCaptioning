@@ -3,7 +3,7 @@ pre-trained model and source code for generate description of images.
 
 
 ### Download Model
-<a href="https://mega.nz/file/TkMkyYgC#NpL8WcKHMsYEMfQCikFuIKk3A7_061KbXuziCraPZs">Download pre-trained model here.</a> Model trained on MSCOCO-2014 dataset.
+<a href="https://mega.nz/file/TkMkyYgC#NpL8WcKHMsYEMf-QCikFuIKk3A7_061KbXuziCraPZs">Download pre-trained model here.</a> Model trained on MSCOCO-2014 dataset.
 
 Directory contain two sub-directories```photos```and```results```.
 
