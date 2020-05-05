@@ -1,0 +1,4 @@
+./photos/dog.jpg
+0): a dog with a red collar is sitting on a couch .
+1): a dog with a red collar is sitting on the floor .
+2): a dog with a red collar is sitting on a bench .
