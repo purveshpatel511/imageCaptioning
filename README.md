@@ -17,7 +17,7 @@ Run ```imageCaptioning.ipynb``` file for generating caption.
 
 
 ### Example
-![plane.jpg](photos/plane.jpg)
+![plane.jpeg](photos/plane.jpeg)
 
 caption generated for this image is,
 ```
